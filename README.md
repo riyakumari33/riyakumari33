@@ -16,7 +16,6 @@
 * Student & **Frontend Developer** passionate about building responsive and interactive web applications
 *  Skilled in **HTML, CSS, JavaScript, and React**
 *  Interested in **Computer Science fundamentals** like Operating Systems and DSA
-* 🇮🇳 From India
 * I enjoy learning through **hands-on projects, flowcharts, and clean UI design**
 
 ---
