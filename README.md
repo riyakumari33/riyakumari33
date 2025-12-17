@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Skills & Tech Stack 🔥
+## 💻 Skills & Tech Stack
 
 ### 🚀 Frontend Skills
 
@@ -38,25 +38,25 @@
 
 ---
 
-## 🌱 Currently Learning
+## ✨ Currently Learning
 
 * ⚛️ Advanced **React** concepts
 * 🎨 Modern **UI/UX practices**
 * 🧩 Advanced **Data Structures**
 
 ---
-
-## 🚀 Featured Projects ✨
+<!-- 
+## 🚀 Featured Projects
 
 ### 🌐 Frontend Projects
 
-* 🔹 **Responsive Website** – Built using HTML & CSS
-* 🔹 **JavaScript Mini Apps** – Calculator, To-Do List, etc.
-* 🔹 **React Applications** – Component-based UI projects
+* **Responsive Website** – Built using HTML & CSS
+*  **JavaScript Mini Apps** – Calculator, To-Do List, etc.
+*  **React Applications** – Component-based UI projects
 
 > 📌 *Projects will be updated regularly as I learn and build more.*
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🤝 Connect With Me 🌐
+## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/riya-kumari-b03a5532b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:riyakumari147369@gmail.com)
 
@@ -83,4 +83,3 @@
 ---
 
 ⭐ *Feel free to explore my repositories and give a star if you find something useful!*
-
